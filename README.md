@@ -1,5 +1,7 @@
 # CatchUp
+## Summary
 
+CatchUp News Project,illustrating fetching and presenting news from service, with news source logo obtained from a third 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
 ## Development server
